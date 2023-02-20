@@ -1,3 +1,5 @@
+
+
 USTH ICT 2023 Advanced Programming with Python
 =====================================================
 
@@ -9,6 +11,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name: NGUYEN TUAN DAT 
+* Student ID: BI12-081
+
 
